@@ -1,0 +1,20 @@
+{
+  "name": "Michal Peterka",
+  "skills": [
+    "jako trochu matika",
+    "petang",
+    "programování ;]"
+  ],
+  "interests": [
+    "hraní her :)",
+    "asi škola no",
+    "nemuset mluvit s lidma"
+  ],
+  "projects": [
+    {
+      "title": "Osobní web",
+      "description": "Jednostránkový profil na GitHub Pages",
+      "link": "https://might2587.github.io/"
+    }
+  ]
+}
